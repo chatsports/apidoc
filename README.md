@@ -112,7 +112,7 @@ http://chatsportslabs.com:4567/sites/search/giant?key=YOUR_API_KEY&signature=67f
 ## Signing requests
 
 ### given a params hash of
-```json
+```ruby
   {
     foo:        "bar",
     baz:        "qux",
