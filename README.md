@@ -1,7 +1,5 @@
 # API Documentation
 
-Allows you to add inline documentation to a Sinatra app and have a web-based
-documentation browser be available to you.
 
 Staging URL:
   http://chatsportslabs.com:4567/
